@@ -58,7 +58,7 @@ h2 {
 
 #main-banner {
     height: 70vh;
-    background-image: url('../img/bg-projeto.jpg');
+    background-image: url('../img/wallpaper.jpg');
     background-size: cover;
     padding-top: 15vh;
 }
@@ -68,7 +68,7 @@ h2 {
     margin-right: auto;
     margin-left: auto;
     text-align: center;
-    color: #FFF;
+    color: rgb(58, 58, 58);
     padding: 50px;
 }
 
@@ -84,6 +84,7 @@ h2 {
     background-color: #284d34;
     font-weight: bold;
     width: 200px;
+    color: rgb(255, 255, 255);
     margin-right: auto;
     margin-left: auto;
     padding: 12px;
@@ -218,6 +219,10 @@ h2 {
     background-image: url('../img/proj3.jpg');
 }
 
+#Contact-footer a {
+    font-weight: bold;
+    color: #0c0c0c;
+}
 /* footer */
 
 footer {
