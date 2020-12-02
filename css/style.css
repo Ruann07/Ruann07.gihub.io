@@ -100,6 +100,10 @@ h2 {
   padding: 12px;
 }
 
+#banner-info p:hover {
+  transition: 200ms;
+  box-shadow: 0 0 8px 8px rgb(178, 255, 169);
+}
 /* about */
 
 #about-section {
@@ -177,6 +181,20 @@ h2 {
   line-height: 25px;
 }
 
+#image1:hover {
+  transition: 250ms;
+  box-shadow: 0 0 8px 8px rgb(247, 244, 32);
+}
+
+#image2:hover {
+  transition: 250ms;
+  box-shadow: 0 0 8px 8px rgb(54, 245, 252);
+}
+
+#image3:hover {
+  transition: 250ms;
+  box-shadow: 0 0 8px 8px rgb(70, 70, 70);
+}
 /* jobs */
 
 #jobs-section {
