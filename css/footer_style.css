@@ -1,0 +1,36 @@
+footer {
+    padding: 50px 0;
+    background-color: #284d34;
+    color: #fff;
+    text-align: center;
+  }
+  
+  footer img {
+    height: 50px;
+    margin: 30px 0;
+  }
+  
+  footer p {
+    margin-top: 25px;
+  }
+  
+  footer form {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  footer input,
+  footer textarea {
+    border: none;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    width: 100%;
+    display: block;
+  }
+  
+  footer .detail {
+    font-weight: bold;
+  }
+  

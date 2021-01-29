@@ -1,0 +1,55 @@
+#jobs-section {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#jobs-section h2 {
+    color: #284d34;
+    margin-bottom: 30px;
+}
+
+#jobs-section p {
+    margin-bottom: 50px;
+}
+
+#jobs-section a {
+    font-weight: bold;
+    color: #284d34;
+}
+
+.job-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.job-box {
+    flex: 1 1 200px;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 300px;
+    background-size: cover;
+    border-right: 2px solid #284d34;
+    border-bottom: 2px solid #284d34;
+}
+
+.proj1 {
+    background-image: url('../img/proj1.jpg');
+}
+
+.proj2 {
+    background-image: url('../img/proj2.jpg');
+}
+
+.proj3 {
+    background-image: url('../img/proj3.jpg');
+}
+
+#Contact-footer a {
+    font-weight: bold;
+    color: #0c0c0c;
+}

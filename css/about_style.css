@@ -1,0 +1,18 @@
+#about-section {
+    text-align: center;
+    background-color: #284d34;
+    color: #fff;
+    padding-top: 50px;
+    height: 350px;
+}
+
+#about-section h2 {
+    margin-bottom: 20px;
+}
+
+#about-section p {
+    max-width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+    line-height: 30px;
+}
