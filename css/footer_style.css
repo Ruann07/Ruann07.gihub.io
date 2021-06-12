@@ -33,4 +33,8 @@ footer {
   footer .detail {
     font-weight: bold;
   }
+
+  footer #email {
+    color: #000;
+  }
   

@@ -64,26 +64,6 @@
       border-bottom: 1px solid #ccc;
     }
   
-    /* jobs */
-    #jobs-section h2,
-    #jobs-section p {
-      width: 85%;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  
-    .job-container {
-      flex-direction: column;
-      margin-bottom: 0;
-    }
-  
-    .job-box {
-      margin-bottom: 2rem;
-      flex: 1 1 300px;
-    }
-  
-    /* footer */
-  
     footer {
       padding: 50px, 15px;
     }
